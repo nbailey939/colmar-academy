@@ -19,7 +19,7 @@ For this project you will implement the site specified by the wireframes and mak
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/nbailey939/colmar-academy)
-- Live Site URL: [Live Site](https://nbailey939.github.io/interactive-card-details/)
+- Live Site URL: [Live Site](https://nbailey939.github.io/colmar-academy/)
 
 ### Built with
 
